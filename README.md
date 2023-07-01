@@ -1,1 +1,1 @@
-# Hangman Projects
+# C++ Projects for practice
